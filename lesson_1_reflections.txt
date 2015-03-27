@@ -1,0 +1,34 @@
+Viewing a diff between 2 files really helped me to look quickly and spot the error.
+I think this will be useful for finding small typos.
+I am also thinking about how I could implement this in word and indesign projects.
+I would also like to use the Terminal to create folder structures.
+I think it is very exciting!
+
+I also learnt how 1 line of code can dlete the whole machine - amazing!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It could make you quicker at going back based on either error or customer feedback. And you don't need to hunt around for files.\
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+PROS: you can do commits that make sense with a justifiable purpose for each.
+CONS: you may forget to commit? How easy is it?
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because for code you often have multipl efiles which rely upon eachother so you need them to be able to talk to eachother in this way.
+
+How can you use the commands git log and git diff to view the history of files?
+You can use git clone to make a copy of a file from a git location to your mac. you can then use git log to see att the old versions. You can look at the log and pick 2 ids to see all the differences between them.
+
+How might using version control make you more confident to make changes that could break something?
+I would be more confident to experiment safe in the knowledge that I could revert back to a previous problem and pinpoint any issues using git diff :)
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to try and use git for version control of indesign docs to be honest but i think that will take a bit more thought to get my head around!! For code I want t use to easily store my code and recall old versions when I need them. Maybe they could even become alternative versions.
+
+
+
+
+
