@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+So what happens is you turn that folder into a git repository. A .git hiden folder is added and this will sit in the background and store all the data about  the history of the file :D You do it to start using git!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging offers an interim space to gather both your files and thoughts before making  commit. I think it is useful to make you check youself and also to pass ofver individua elements once they are ready.
