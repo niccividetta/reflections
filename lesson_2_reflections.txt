@@ -3,3 +3,24 @@ So what happens is you turn that folder into a git repository. A .git hiden fold
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging offers an interim space to gather both your files and thoughts before making  commit. I think it is useful to make you check youself and also to pass ofver individua elements once they are ready.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you want to create alternative versions of your files branches are very useful. branches would help to make more working versions usable. I am still not sure why we are doing this without a GUI though...
+
+How do the diagrams help you visualize the branch structure?
+diagrams help me like a breadcrumb trail to visualy find my way back to the start. it works very well for me as a visual learner.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging 2 branches combines the work of both files tigether, referencing back to the original to make smart changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pro's:
+quick merging
+easily combine different features into the main item
+
+the cons:
+maybe makes you a bit lazy?
+in lots of cases will not work and you will need to sort manually.
+
+

@@ -12,3 +12,6 @@ forks - are like clones but just exist on github
 Branch for features and parallel working on little bits and exoeriments
 Clone to copy a whole repository
 fork to get a copy if somone else file - do your own thing but give them a good pat on the back. Or to take their thing and make some changes to show them a better way to do it!!
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+I think the benefit is that you can look through it and carefully egre once you are ready. You may need to look at it at a later time offline.
