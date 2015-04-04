@@ -15,3 +15,10 @@ fork to get a copy if somone else file - do your own thing but give them a good 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 I think the benefit is that you can look through it and carefully egre once you are ready. You may need to look at it at a later time offline.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be hard to collaborate another way. I think you would just all have multiple versions saved and ned to manage them using an excel sheet or similar?
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Yu would want to make changes to a separate branch to suggest a new feature or chane that was tbc without affecting the master.You need to remember what branch you are on and why (or remember to check) Obviously the commit messages help you to keep track of this.
